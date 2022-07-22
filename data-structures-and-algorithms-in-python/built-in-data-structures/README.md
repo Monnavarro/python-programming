@@ -1,0 +1,12 @@
+# Module Overview
+
+Data structures and algorithms are among the most fundamental concepts of
+Computer Science. Whether it’s real-world problems you’re trying to solve, 
+or the typical coding question asked in an interview, almost every problem 
+requires you to demonstrate a deep understanding of data structures and
+algorithms.
+
+This module reviews some of the most common data structures and algorithms 
+in interviews and your everyday work. With implementation details, thorough 
+explanations, and hands-on coding exercises, you’ll quickly gain the 
+confidence you need to solve any problem, no matter the situation.
